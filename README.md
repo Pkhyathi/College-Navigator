@@ -1,0 +1,4 @@
+
+The College Navigation System based on KCET (Karnataka Common Entrance Test) ranking is a web-based platform designed to assist students in finding suitable colleges and courses based on their exam ranks. This system aims to simplify the college selection process by providing personalized, rank-based suggestions, streamlining the decision-making process for students and their families. Additionally, users can filter results by location, courses, and fees, ensuring a more personalized experienceThe system also incorporates important features like college comparisons, detailed course information, faculty credentials, and placement statistics, providing a comprehensive view of each institution.This platform not only aids students but also helps institutions reach potential candidates effectively
+
+
