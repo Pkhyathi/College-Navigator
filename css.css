@@ -1,0 +1,74 @@
+body {
+    background-image: url("C:/Users/Khyathi Paruchuri/OneDrive/Desktop/Mini Project 5/th.jpg"); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    position: relative;
+    width: 100%; 
+    height: 100vh; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.board {
+    position: absolute;
+    top: 5%; 
+    left: 20%;
+    right: 25%; 
+    bottom: 100%; 
+    padding: 20px;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    box-sizing: border-box; 
+}
+
+h1 {
+    color: Crimson;
+    font-size: 40px; 
+    font-style: italic;
+    font-weight: bolder;
+    margin-top: 5px;
+    text-align: center;
+    font-size: x-large;
+}
+
+p {
+    color:goldenrod;
+    font-size: large;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+
+input {
+    color:olive;
+    text-align: center;
+    font-size: large;
+    padding: 10px;
+    width: 80%;
+    margin-top: 8px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+button {
+    color: lightgreen;
+    background-color: green;
+    border: 1px solid black;
+    padding: 10px 15px;
+    margin-top: 10px;
+    font-size: large;
+    width: 50%;
+}
+
